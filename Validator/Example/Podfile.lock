@@ -1,0 +1,16 @@
+PODS:
+  - Validator (0.1.0)
+
+DEPENDENCIES:
+  - Validator (from `../`)
+
+EXTERNAL SOURCES:
+  Validator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Validator: 505dce1c45581cfa458351571aa6e1092e11908c
+
+PODFILE CHECKSUM: 5ba43afaa8affe42a199ede099c646a0f9c6b14a
+
+COCOAPODS: 1.15.2

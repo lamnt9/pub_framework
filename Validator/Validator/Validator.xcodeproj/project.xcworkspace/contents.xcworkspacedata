@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:/Users/lamnguyen/Documents/example/pub_framework/Validator/Validator.xcodeproj">
+      location = "self:">
    </FileRef>
 </Workspace>

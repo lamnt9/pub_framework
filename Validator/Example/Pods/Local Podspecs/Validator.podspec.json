@@ -1,0 +1,22 @@
+{
+  "name": "Validator",
+  "version": "0.1.0",
+  "summary": "A short description of Validator.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Lam Nguyen/Validator",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Lam Nguyen": "nguyentunglamvnm@gmail.com"
+  },
+  "source": {
+    "git": "git@github.com:lamnt9/pub_framework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Validator/Classes/**/*"
+}
