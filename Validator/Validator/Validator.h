@@ -1,19 +1,18 @@
 //
-//  MaccoValidator.h
-//  MaccoValidator
+//  Validator.h
+//  Validator
 //
-//  Created by Emmanuel Okwara on 18/09/2020.
-//  Copyright © 2020 Macco. All rights reserved.
+//  Created by Lam Nguyen on 15/8/24.
 //
 
 #import <Foundation/Foundation.h>
 
-//! Project version number for MaccoValidator.
-FOUNDATION_EXPORT double MaccoValidatorVersionNumber;
+//! Project version number for Validator.
+FOUNDATION_EXPORT double ValidatorVersionNumber;
 
-//! Project version string for MaccoValidator.
-FOUNDATION_EXPORT const unsigned char MaccoValidatorVersionString[];
+//! Project version string for Validator.
+FOUNDATION_EXPORT const unsigned char ValidatorVersionString[];
 
-// In this header, you should import all the public headers of your framework using statements like #import <MaccoValidator/PublicHeader.h>
+// In this header, you should import all the public headers of your framework using statements like #import <Validator/PublicHeader.h>
 
 
